@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6461ee20a5601943bbad7e9a"
+  },
+  "marque": "BMW",
+  "modele": "M2"
+},{
+  "_id": {
+    "$oid": "64624a57a5601943bbad7ea3"
+  },
+  "marque": "BMW",
+  "modele": "M5"
+},{
+  "_id": {
+    "$oid": "64624a82a5601943bbad7ea7"
+  },
+  "marque": "audi",
+  "modele": "RS3"
+},{
+  "_id": {
+    "$oid": "64628f25a5601943bbad7eae"
+  },
+  "marque": "Mercedes AMG",
+  "modele": "C63"
+},{
+  "_id": {
+    "$oid": "64628fa9a5601943bbad7eb0"
+  },
+  "marque": "Ferrari",
+  "modele": "F40"
+},{
+  "_id": {
+    "$oid": "6462906fa5601943bbad7eb2"
+  },
+  "marque": "Ferrari",
+  "modele": "488"
+},{
+  "_id": {
+    "$oid": "646472454a88f89f15b2aec2"
+  },
+  "marque": "audi",
+  "modele": "RS6"
+}]
